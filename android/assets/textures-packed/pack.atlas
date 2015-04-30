@@ -1,0 +1,191 @@
+
+pack.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1870, 1794
+  size: 128, 128
+  split: 31, 31, 31, 31
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+buttonChecked
+  rotate: false
+  xy: 1084, 6
+  size: 128, 128
+  split: 31, 31, 31, 31
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+buttonDown
+  rotate: false
+  xy: 1870, 1664
+  size: 128, 128
+  split: 31, 31, 31, 31
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 1598, 1544
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 1
+card
+  rotate: false
+  xy: 1084, 516
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 2
+card
+  rotate: false
+  xy: 1598, 1164
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 3
+card
+  rotate: false
+  xy: 1084, 136
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 4
+card
+  rotate: false
+  xy: 1356, 516
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 5
+card
+  rotate: false
+  xy: 1356, 136
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 6
+card
+  rotate: false
+  xy: 1628, 784
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 7
+card
+  rotate: false
+  xy: 1628, 404
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 8
+card
+  rotate: false
+  xy: 1628, 24
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 9
+cursor
+  rotate: false
+  xy: 1598, 1034
+  size: 12, 128
+  orig: 12, 128
+  offset: 0, 0
+  index: -1
+futura64outline
+  rotate: false
+  xy: 1084, 1410
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+pixely64
+  rotate: false
+  xy: 1084, 896
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+textinput
+  rotate: false
+  xy: 1214, 6
+  size: 128, 128
+  split: 31, 31, 31, 31
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+card
+  rotate: false
+  xy: 2, 382
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 10
+card
+  rotate: false
+  xy: 1028, 1408
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 11
+card
+  rotate: false
+  xy: 2, 2
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 12
+card
+  rotate: false
+  xy: 274, 382
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 13
+card
+  rotate: false
+  xy: 1028, 1028
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 14
+card
+  rotate: false
+  xy: 1300, 1408
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: 15
+card_back
+  rotate: false
+  xy: 274, 2
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: -1
+pixely128
+  rotate: false
+  xy: 2, 762
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
