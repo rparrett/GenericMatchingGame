@@ -13,6 +13,13 @@ android {
 
         instrumentTest.setRoot('tests')
     }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            zipAlignEnabled true
+        }
+    }
 }
 
 // needed to add JNI shared libraries to APK when compiling on CLI
