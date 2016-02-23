@@ -1,5 +1,7 @@
 # Generic Matching Game
 
+[Play Store](https://play.google.com/store/apps/details?id=com.robparrett.genericmatchinggame.android&hl=en)
+
 This is a very generic game where a player must flip cards over two at a time to find matches.
 
 Includes amazing programmer art and amazing programmer sfx.
